@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BOOK_SYSTEM/1.0.0": {
+        "runtime": {
+          "BOOK_SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BOOK_SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

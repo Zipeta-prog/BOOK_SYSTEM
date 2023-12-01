@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "userOne",
+      "password": "test1234"
+    },
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Java for Begginers",
+      "description": "test "
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1
+    }
+  ]
+}

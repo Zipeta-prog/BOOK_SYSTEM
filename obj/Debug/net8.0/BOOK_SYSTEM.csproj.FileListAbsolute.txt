@@ -1,0 +1,14 @@
+C:\BOOK_SYSTEM\bin\Debug\net8.0\BOOK_SYSTEM.exe
+C:\BOOK_SYSTEM\bin\Debug\net8.0\BOOK_SYSTEM.deps.json
+C:\BOOK_SYSTEM\bin\Debug\net8.0\BOOK_SYSTEM.runtimeconfig.json
+C:\BOOK_SYSTEM\bin\Debug\net8.0\BOOK_SYSTEM.dll
+C:\BOOK_SYSTEM\bin\Debug\net8.0\BOOK_SYSTEM.pdb
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.AssemblyInfoInputs.cache
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.AssemblyInfo.cs
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.csproj.CoreCompileInputs.cache
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.dll
+C:\BOOK_SYSTEM\obj\Debug\net8.0\refint\BOOK_SYSTEM.dll
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.pdb
+C:\BOOK_SYSTEM\obj\Debug\net8.0\BOOK_SYSTEM.genruntimeconfig.cache
+C:\BOOK_SYSTEM\obj\Debug\net8.0\ref\BOOK_SYSTEM.dll
